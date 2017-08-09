@@ -1,4 +1,7 @@
 # rateanalyzer
 R Library to calculate solar savings from residential greenbutton data
-The functions in this R library can be called from the endpoint https://github.com/xmachak/rateanalyzer or can be modified with tariffs
-from other utiltities. These functions, as written, are for residential customers in SDG&E territory. 
+The functions in this R library can be accessed from the endpoint https://research.energycenter.org/ocpu/library/rateanalyzer/R.
+
+As written, these functions use SDG&E residential electric rates, but can be forked and modified for use with other utilities rates. 
+
+Contact Christina Machak at christina.machak@energycenter.org with questions.
